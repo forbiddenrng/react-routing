@@ -1,0 +1,16 @@
+{
+  "main.css": "/react-routing/static/css/main.45cc50c5.chunk.css",
+  "main.js": "/react-routing/static/js/main.e1d2be68.chunk.js",
+  "main.js.map": "/react-routing/static/js/main.e1d2be68.chunk.js.map",
+  "runtime~main.js": "/react-routing/static/js/runtime~main.51ad13a7.js",
+  "runtime~main.js.map": "/react-routing/static/js/runtime~main.51ad13a7.js.map",
+  "static/js/2.88b550cb.chunk.js": "/react-routing/static/js/2.88b550cb.chunk.js",
+  "static/js/2.88b550cb.chunk.js.map": "/react-routing/static/js/2.88b550cb.chunk.js.map",
+  "index.html": "/react-routing/index.html",
+  "precache-manifest.edd22ea78e3647c4294aa2b14ae18610.js": "/react-routing/precache-manifest.edd22ea78e3647c4294aa2b14ae18610.js",
+  "service-worker.js": "/react-routing/service-worker.js",
+  "static/css/main.45cc50c5.chunk.css.map": "/react-routing/static/css/main.45cc50c5.chunk.css.map",
+  "static/media/header1.jpg": "/react-routing/static/media/header1.70e6670e.jpg",
+  "static/media/header2.jpg": "/react-routing/static/media/header2.33eca35f.jpg",
+  "static/media/header3.jpg": "/react-routing/static/media/header3.d9d36b65.jpg"
+}
